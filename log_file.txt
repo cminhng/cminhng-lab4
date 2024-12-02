@@ -1,0 +1,29 @@
+commit bbde96f42bdfb0c27f37dbe5b5843be540977561
+Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
+Date:   Sun Dec 1 18:25:30 2024 -0800
+
+    added button functionality for encrypt/deecrypt, cited boxformat oracle tutorial
+
+commit 237daea8493ef169ff4ce852433b7624564ad229
+Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
+Date:   Sun Dec 1 18:14:21 2024 -0800
+
+    sorry forgot to commit,, finished enigmaFrame and main in GUI
+
+commit e030137cac624f80493fb988cce1c3f65df477c9
+Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
+Date:   Mon Nov 18 11:27:44 2024 -0800
+
+    added all files
+
+commit 5471fd989336a8ddfee0048648def95d72e9f36d
+Author: cminhng <christine.nguyen1@gwmail.gwu.edu>
+Date:   Mon Nov 18 11:22:05 2024 -0800
+
+    Add files via upload
+
+commit 54d6deb8ff1a89bdc3fb802d145d8bc3321dde52
+Author: cminhng <christine.nguyen1@gwmail.gwu.edu>
+Date:   Mon Nov 18 11:20:59 2024 -0800
+
+    Add files via upload
