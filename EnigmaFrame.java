@@ -18,9 +18,7 @@ public class EnigmaFrame extends JFrame{
         1, 2, 3, 4, 5
     };
 
-    public EnigmaFrame(){
-        //JFrame frame = new JFrame();
-        
+    public EnigmaFrame(){        
         inner = new JComboBox<Integer>(rotors);
         middle = new JComboBox<Integer>(rotors);
         outer = new JComboBox<Integer>(rotors);
@@ -42,7 +40,7 @@ public class EnigmaFrame extends JFrame{
         top.add(start);
         top.add(encrypt);
         top.add(decrypt);
-
+        
         encrypt.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 crypt(true);
@@ -58,6 +56,9 @@ public class EnigmaFrame extends JFrame{
         
         JPanel bottom = new JPanel();
         bottom.setLayout(new BoxLayout(bottom, BoxLayout.Y_AXIS));
+        
+        // box layout resource: 
+        // https://docs.oracle.com/javase/tutorial/uiswing/layout/box.html
 
         JPanel in = new JPanel(new FlowLayout());
         JPanel out = new JPanel(new FlowLayout());
