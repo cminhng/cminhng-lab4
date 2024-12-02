@@ -1,3 +1,9 @@
+commit 0454c9ced870262c4682e8dab443dfd789462dcd
+Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
+Date:   Sun Dec 1 18:35:40 2024 -0800
+
+    lambda expressions for button functionality + added title
+
 commit bbde96f42bdfb0c27f37dbe5b5843be540977561
 Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
 Date:   Sun Dec 1 18:25:30 2024 -0800

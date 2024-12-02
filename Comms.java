@@ -40,6 +40,9 @@ public class Comms {
     Enigma enigma = new Enigma(id1, id2, id3, args[3]);
 
     // Encrypt or Decrypt
-    
+    if( encrypt )
+      System.out.println(enigma.encrypt(message));
+    else
+      System.out.println(enigma.decrypt(message));
   }
 }
