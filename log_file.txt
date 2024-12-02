@@ -1,3 +1,9 @@
+commit e48f581eecec1fd5efc81d1cdfd2695dc25cd1f0
+Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
+Date:   Sun Dec 1 18:50:17 2024 -0800
+
+    accidentally deleted code in Comms for command line functionality, added it back
+
 commit 0454c9ced870262c4682e8dab443dfd789462dcd
 Author: christine nguyen <cminhng@cmng-MacBook-Pro.local>
 Date:   Sun Dec 1 18:35:40 2024 -0800
